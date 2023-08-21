@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.square_1 {
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+    background-image: linear-gradient(to bottom left, black, yellow);
+}
+
+.square_2 {
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+    background-image: radial-gradient(red, blue);
+}
